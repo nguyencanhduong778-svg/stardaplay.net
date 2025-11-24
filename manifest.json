@@ -1,0 +1,19 @@
+{
+    "name": "Starda Casino Login \u2013 Jetzt registrieren & spielen | Erfahrungen",
+    "short_name": "Starda Casino",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Starda Casino Login & Bonus sichern | Entdecken Sie legale Spieloptionen in Deutschland und echte Erfahrungen \u2013 Jetzt kostenlos starten!",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
